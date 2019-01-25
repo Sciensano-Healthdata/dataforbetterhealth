@@ -3,15 +3,26 @@
 # ATC-tabel (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
 
 # EMD-databank (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
+- CSV NL: http://www.bcfi.be/nl/downloads/file?type=EMD&name=/csv4Emd_Nl_1901A.zip
+- SQL NL: http://www.bcfi.be/nl/downloads/file?type=EMD&name=/sql4Emd_Nl_1901A.zip
+- CSV FR: http://www.bcfi.be/nl/downloads/file?type=EMD&name=/csv4Emd_Fr_1901A.zip
+- SQL FR: http://www.bcfi.be/nl/downloads/file?type=EMD&name=/sql4Emd_Fr_1901A.zip
+
+Description database : http://www.bcfi.be/assets/pdf/db4emd-docEN.pdf
 
 #  VOS-tabel (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
+- CSV: http://www.bcfi.be/nl/downloads/file?type=ATC&name=/csv_ATCDPP_1808A.zip
+- SQL: http://www.bcfi.be/nl/downloads/file?type=ATC&name=/sql_ATCDPP_1808A.zip
+
+Description database : http://www.bcfi.be/nl/download
+More info on ATC: https://www.whocc.no/atc_ddd_index/
 
 # PUBCHEM (National Center for Biotechnology Information - NCBI)
-ftp://ftp.ncbi.nlm.nih.gov/pubchem/
+- ftp://ftp.ncbi.nlm.nih.gov/pubchem/
 
 # PUBMED (National Center for Biotechnology Information - NCBI)
-ftp://ftp.ncbi.nlm.nih.gov/pubmed/
+- ftp://ftp.ncbi.nlm.nih.gov/pubmed/
 
 # OPENTRIALS (opentrials.net)
-https://explorer.opentrials.net/data
-https://github.com/opentrials
+- https://explorer.opentrials.net/data
+- https://github.com/opentrials
