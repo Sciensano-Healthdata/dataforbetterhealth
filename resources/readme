@@ -1,0 +1,17 @@
+# Documents PH ("DOC PH")
+
+# ATC-tabel (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
+
+# EMD-databank (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
+
+#  VOS-tabel (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
+
+# PUBCHEM (National Center for Biotechnology Information - NCBI)
+ftp://ftp.ncbi.nlm.nih.gov/pubchem/
+
+# PUBMED (National Center for Biotechnology Information - NCBI)
+ftp://ftp.ncbi.nlm.nih.gov/pubmed/
+
+# OPENTRIALS (opentrials.net)
+https://explorer.opentrials.net/data
+https://github.com/opentrials
