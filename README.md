@@ -18,3 +18,4 @@ Within the initiative “#dataforbetterhealth” , a series of hackathons are or
 - Hackathon “Doc PH”: Practicalities (Johan van Bussel, Sciensano): https://drive.google.com/open?id=1lsC1_EGAzrb8e8XNri_XKnMVbRrAwLz_
 
 ## Resources "DOC PH"
+- See https://github.com/Sciensano-Healthdata/dataforbetterhealth/tree/master/resources
