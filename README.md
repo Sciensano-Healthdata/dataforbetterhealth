@@ -8,5 +8,13 @@ The “#dataforbetterhealth” initiative wishes to encourage and engage all ser
 
 #dataforbetterhealth is an INITIATIVE of the federal minister of Public health, the federal minister of Digital Agenda, the federal Secretary of state Privacy, SUPPORTED by Sciensano, NIDO – the innovation lab of the federal government and DigitYzer, and INSPIRED by RIZIV-INAMI, FOD-SPF Public Health, FAGG-AFMPS, IMA-AIM, IMEC, AGORIA, PHARMA.BE, VPP, LUSS, HOSPITALS.be, KCE, BOSA, …
 
-# hackathon
+# hackathon "DOC PH"
 Within the initiative “#dataforbetterhealth” , a series of hackathons are organized. In the first hackathon (25.01-26.01.2019), an anonymised version of the database “DOC PH” is provided by the National Institute for Health and Disability Insurance (NIHDI/RIZIV/INAMI). This dataset contains information about medication delivery in all Belgian hospitals, since 2002.
+
+## Introduction "DOC PH"
+- Introduction #dataforbetterhealth initiative (Johan van Bussel, Sciensano): https://drive.google.com/open?id=14n3qqw8YroRpn-72_8qWmnhoYmO5-sHr
+- Hackathon “Doc PH”: Doc PH? (Mike Daubie, RIZIV/INAMI): https://drive.google.com/open?id=1DuPcL1qC2rrbtZWH6znGiasXjsiTXwVi
+- Hackathon “Doc PH”: Let’s connect! (Johan van Bussel, Sciensano): https://drive.google.com/open?id=1yiwpWgKsUAotwF1EImgfj503vaicTxZ1
+- Hackathon “Doc PH”: Practicalities (Johan van Bussel, Sciensano): https://drive.google.com/open?id=1lsC1_EGAzrb8e8XNri_XKnMVbRrAwLz_
+
+## Resources "DOC PH"
