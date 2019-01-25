@@ -1,6 +1,11 @@
 # Documents PH ("DOC PH")
 
 # ATC-tabel (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
+- CSV: http://www.bcfi.be/nl/downloads/file?type=ATC&name=/csv_ATCDPP_1808A.zip
+- SQL: http://www.bcfi.be/nl/downloads/file?type=ATC&name=/sql_ATCDPP_1808A.zip
+
+Description database : http://www.bcfi.be/nl/download
+More info on ATC: https://www.whocc.no/atc_ddd_index/
 
 # EMD-databank (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
 - CSV NL: http://www.bcfi.be/nl/downloads/file?type=EMD&name=/csv4Emd_Nl_1901A.zip
@@ -11,11 +16,9 @@
 Description database : http://www.bcfi.be/assets/pdf/db4emd-docEN.pdf
 
 #  VOS-tabel (Belgisch Centrum voor Farmacotherapeutische Informatie - BCFI)
-- CSV: http://www.bcfi.be/nl/downloads/file?type=ATC&name=/csv_ATCDPP_1808A.zip
-- SQL: http://www.bcfi.be/nl/downloads/file?type=ATC&name=/sql_ATCDPP_1808A.zip
+- CSV: http://www.bcfi.be/nl/downloads/file?type=VOS&name=/csv_VOSDCI_1901A.zip
 
-Description database : http://www.bcfi.be/nl/download
-More info on ATC: https://www.whocc.no/atc_ddd_index/
+More info on VOS: http://www.bcfi.be/assets/pdf/VOSDCI_nl.pdf
 
 # PUBCHEM (National Center for Biotechnology Information - NCBI)
 - ftp://ftp.ncbi.nlm.nih.gov/pubchem/
